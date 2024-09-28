@@ -17,11 +17,12 @@
 ## 스터디 멤버
 <table>
   <tr>
-    <td width="130px;"></td>
-    <td width="130px;></td>
+    <td><img src="" width="130px;"></img></td>
+    <td><img src="" width="130px;"></img></td>
   </tr>
   <tr>
     <td><a href = "https://github.com/amazon7737">김강민</a></td>
     <td><a>이준우</a></td>
   </tr>
+  
 </table>
