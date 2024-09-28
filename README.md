@@ -13,3 +13,15 @@
     <td><p>자바</p></td>
   </tr>
 </table>
+
+## 스터디 멤버
+<table>
+  <tr>
+    <td width="130px;"></td>
+    <td width="130px;></td>
+  </tr>
+  <tr>
+    <td><a href = "https://github.com/amazon7737">김강민</a></td>
+    <td><a>이준우</a></td>
+  </tr>
+</table>
