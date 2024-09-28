@@ -10,6 +10,10 @@
     <td>언어</td>  
     <td><p>자바</p></td>
   </tr>
+  <tr>
+    <td>링크</td>
+    <td><a href = "https://github.com/coffee-yongsucheol/Java-Study-time/issues">스터디 내용 보러가기</a></td>
+  </tr>
 </table>
 
 ## 스터디 멤버
