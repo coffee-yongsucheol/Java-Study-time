@@ -21,10 +21,12 @@
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/76634341?v=4" width="130px;"></img></td>
     <td><img src="https://avatars.githubusercontent.com/u/127822736?v=4" width="130px;"></img></td>
+    <td><img src="https://avatars.githubusercontent.com/u/105405834?v=4" width="130px;"></img></td>
   </tr>
   <tr>
     <td><a href = "https://github.com/amazon7737">김강민</a></td>
     <td><a href = "https://github.com/junw00">이준우</a></td>
+    <td><a href = "https://github.com/solp721">정규환</a></td>
   </tr>
   
 </table>
